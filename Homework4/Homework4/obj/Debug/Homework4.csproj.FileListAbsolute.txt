@@ -1,0 +1,6 @@
+c:\users\dela\documents\visual studio 2013\Projects\Homework4\Homework4\bin\Debug\Homework4.exe.config
+c:\users\dela\documents\visual studio 2013\Projects\Homework4\Homework4\bin\Debug\Homework4.exe
+c:\users\dela\documents\visual studio 2013\Projects\Homework4\Homework4\bin\Debug\Homework4.pdb
+c:\users\dela\documents\visual studio 2013\Projects\Homework4\Homework4\obj\Debug\Homework4.csprojResolveAssemblyReference.cache
+c:\users\dela\documents\visual studio 2013\Projects\Homework4\Homework4\obj\Debug\Homework4.exe
+c:\users\dela\documents\visual studio 2013\Projects\Homework4\Homework4\obj\Debug\Homework4.pdb
